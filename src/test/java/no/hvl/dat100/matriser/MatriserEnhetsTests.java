@@ -103,7 +103,7 @@ class MatriserEnhetsTests {
 		multiplisert = Matriser.multipliser(c,a);
 		assertArrayEquals(ca,multiplisert);
 		
-	}
+	} 
 	
 	@Test
 	void testerLik() {
